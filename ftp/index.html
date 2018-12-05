@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title>Galaxy Australia | FTP Configuration</title>
+  <meta property="og:title" content="FTP Configuration" />
+  <meta property="og:description" content="" />
+  <meta property="og:image" content="/assets/media/galaxy-eu-logo.512.png" />
+  <meta name="description" content="The Australian Galaxy Instance">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
+
+
+
+
+  <link rel="canonical" href="https://usegalaxy.org.au/ftp/">
+  <link rel="shortcut icon" href="/assets/media/galaxy-eu-logo.64.png" type="image/x-icon" />
+  <link rel="alternate" type="application/rss+xml" title="Galaxy Australia" href="/feed.xml">
+
+  <link href="/assets/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <script src="/assets/js/jquery-3.2.1.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>
+  <script src="/assets/js/bootstrap.min.js" integrity="sha256-U5ZEeKfGNOja007MMD3YBI0A3OSZOQbeG6z2f2Y0hu8=" crossorigin="anonymous"></script>
+</head>
+
+  <body>
+    <div id="wrap">
+      <div id="main">
+        <div class="container" id="maincontainer">
+          <h1 id="usegalaxyeu-ftp-servers">UseGalaxy.eu FTP Servers</h1>
+
+<h2 id="servers">Servers</h2>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Server</th>
+      <th>Port</th>
+      <th>Properties</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code class="highlighter-rouge">ftp.usegalaxy.eu</code></td>
+      <td>21</td>
+      <td>TLS connections <strong>only</strong>. Does not support insecure connections</td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">galaxy.uni-freiburg.de</code></td>
+      <td>21</td>
+      <td>Insecure connections only, no support for tls.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="upload-multiple-files-via-curl">Upload multiple files via curl</h2>
+
+<p><code class="highlighter-rouge">curl -T {"file1,file2"} ftp://ftp.usegalaxy.eu --user user@name.de --ssl</code></p>
+
+<p>The list needs to be comma seperated, without spaces and in quotation: <code class="highlighter-rouge"><span class="p">{</span><span class="nt">"file1,file2"</span><span class="err">}</span></code></p>
+
+<h2 id="credentials">Credentials</h2>
+
+<p>Use the same email address and password that you use to login to <a href="https://usegalaxy.eu">usegalaxy.eu</a></p>
+
+<h2 id="more-information">More Information</h2>
+
+<p>For more information on using FTP with Galaxy, please see the <a href="https://galaxyproject.org/ftp-upload/">official
+documentation</a>. As always, don’t
+hesitate to send us an
+<a href="mailto:contact@usegalaxy.eu?subject=FTP+Issue">Email</a> if you
+have any issues.</p>
+
+        </div>
+      </div>
+    </div>
+    
+
+
+
+
+
+<footer class="navbar-default">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12" style="text-align:center">
+                <p>UseGalaxy.org.au is maintained largely by the <a href="/people/">Australian Galaxy Team</a> including staff from QCIF, UQ-RCC and Melbourne Bioinformatics.
+All content on this site is available under <a href="https://creativecommons.org/share-your-work/public-domain/cc0/">CC0-1.0</a>, unless otherwise specified.</p>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12" style="text-align:center">
+                <ul class="contact-info">
+                    
+                      <li><i class="fa fa-envelope"></i><a href="mailto:contact@usegalaxy.org.au">contact@usegalaxy.org.au</a></li>
+                    
+                    
+                      <li><i class="fa fa-github"></i><a href="https://github.com/usegalaxy-au">usegalaxy-au</a></li>
+                    
+                    
+                      <li><i class="fa fa-twitter"></i><a href="https://twitter.com/galaxyaustralia">galaxyaustralia</a></li>
+                    
+                      <li><i class="fa fa-rss"></i>Subscribe <a href="/feed.xml">via RSS (UseGalaxy.eu Feed)</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+  </body>
+</html>
