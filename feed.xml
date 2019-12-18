@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2019-12-12T02:05:05+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia upgraded to Galaxy version 19.09</title><link href="https://usegalaxy-au.github.io/posts/2019/12/11/galaxy-australia-to-galaxy-version-19-09/" rel="alternate" type="text/html" title="Galaxy Australia upgraded to Galaxy version 19.09" /><published>2019-12-11T00:00:00+00:00</published><updated>2019-12-11T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2019/12/11/galaxy-australia-to-galaxy-version-19-09</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2019/12/11/galaxy-australia-to-galaxy-version-19-09/">&lt;p&gt;&lt;strong&gt;Galaxy Australia has been upgraded to the latest Galaxy release. Version 19.09.&lt;/strong&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2019-12-18T02:51:35+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Summer Holiday Support</title><link href="https://usegalaxy-au.github.io/posts/2019/12/17/summer-holiday-support/" rel="alternate" type="text/html" title="Summer Holiday Support" /><published>2019-12-17T00:00:00+00:00</published><updated>2019-12-17T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2019/12/17/summer-holiday-support</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2019/12/17/summer-holiday-support/">&lt;p&gt;Galaxy Australia will be minimally administered during the university shutdown period from 24th December 2019 to the 2nd January 2019. During this time, only essential maintenance will be performed. No disk quota modifications, tool installations or reference data installation or upgrades will be performed.&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html">Galaxy Australia will be minimally administered during the university shutdown period from 24th December 2019 to the 2nd January 2019. During this time, only essential maintenance will be performed. No disk quota modifications, tool installations or reference data installation or upgrades will be performed.</summary></entry><entry><title type="html">Galaxy Australia upgraded to Galaxy version 19.09</title><link href="https://usegalaxy-au.github.io/posts/2019/12/11/galaxy-australia-to-galaxy-version-19-09/" rel="alternate" type="text/html" title="Galaxy Australia upgraded to Galaxy version 19.09" /><published>2019-12-11T00:00:00+00:00</published><updated>2019-12-11T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2019/12/11/galaxy-australia-to-galaxy-version-19-09</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2019/12/11/galaxy-australia-to-galaxy-version-19-09/">&lt;p&gt;&lt;strong&gt;Galaxy Australia has been upgraded to the latest Galaxy release. Version 19.09.&lt;/strong&gt;
 &lt;br /&gt;
 This morning after a brief planned outage, Galaxy Australia was upgraded to the latest version of Galaxy. You will notice some changes straight away - The tool menu is a bit easier to read now. Everything else is the same however!&lt;/p&gt;
 
@@ -53,70 +53,4 @@ This morning after a brief planned outage, Galaxy Australia was upgraded to the 
 
 &lt;p&gt;Please see the &lt;a href=&quot;https://docs.galaxyproject.org/en/release_19.05/releases/19.05_announce_user.html&quot;&gt;user release notes&lt;/a&gt; for additional information.&lt;/p&gt;
 
-&lt;p&gt;Alternatively, see the &lt;a href=&quot;https://docs.galaxyproject.org/en/release_19.05/releases/19.05_announce.html&quot;&gt;full release notes&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="devops" /><category term="update" /><summary type="html">Galaxy Australia has been upgraded to the latest Galaxy release. Version 19.05. This morning after a brief planned outage, Galaxy Australia was upgraded to the latest version of Galaxy. You will notice some changes straight away - The colour scheme is different and the look and feel has altered. Everything else is the same however!</summary></entry><entry><title type="html">Galaxy Australia wins three Queensland iAwards</title><link href="https://usegalaxy-au.github.io/posts/2019/06/07/galaxy-australia-wins-three-queensland-iawards/" rel="alternate" type="text/html" title="Galaxy Australia wins three Queensland iAwards" /><published>2019-06-07T00:00:00+00:00</published><updated>2019-06-07T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2019/06/07/galaxy-australia-wins-three-queensland-iawards</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2019/06/07/galaxy-australia-wins-three-queensland-iawards/">&lt;p&gt;&lt;strong&gt;7 June 2019&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Galaxy Australia won three trophies at the Australian Information Industry Association’s (AIIA) Queensland state iAwards on Tuesday, 4 June, including the top prize, the Queensland Premier’s iAward for Public Sector Innovation.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The Hon. Mick de Brenni, Queensland’s Minister for Digital Technology, presented Galaxy Australia with the Queensland Premier’s iAward at a gala event at the Rydges hotel, South Bank, Brisbane.&lt;/p&gt;
-
-&lt;p&gt;“When it comes to being proud of fellow Queenslanders, it’s hard to look past an initiative that allows scientists to identify resolutions to genetic conditions that cause terminal cancer and debilitating disease,” said Mr de Brenni.&lt;/p&gt;
-
-&lt;p&gt;“To put it simply, this application could find the next cure for cancer.”&lt;/p&gt;
-
-&lt;p&gt;Galaxy Australia also won &lt;a href=&quot;https://www.aiia.com.au/iawards/about/2019-winners-and-merit-recipients?utm_source=2019+iAwards+Entrants&amp;amp;utm_campaign=7cc7851b56-EMAIL_CAMPAIGN_2017_06_08_COPY_01&amp;amp;utm_medium=email&amp;amp;utm_term=0_3bea717129-7cc7851b56-329590441&quot;&gt;iAwards&lt;/a&gt; in the Infrastructure and Platforms Innovation of the Year, and Community Service Markets categories.&lt;/p&gt;
-
-&lt;p&gt;The AIIA iAwards is the nation’s leading awards program that helps to recognise, celebrate and elevate Australian digital innovation.&lt;/p&gt;
-
-&lt;div class=&quot;multiple-img&quot;&gt;
-    &lt;img src=&quot;/assets/media/galaxy-iaward-qld.jpg&quot; height=&quot;400px&quot; alt=&quot;galaxy-iaward-qld.jpg&quot; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;em&gt;L–R: Dr Dominique Gorse (QFAB), Derek Benson (RCC), Dr Gareth Price (QFAB), Nick Rhodes (QFAB)) and Dr Phil Gurney (QCIF) with the three Queensland iAwards won by the Galaxy Australia team. (Photo: Anne Bernard.)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Galaxy Australia is a free, Web-accessible platform to enable genetic scientists across the globe to test, evaluate and peer review their work, making the next cure for chronic disease within reach of anyone with the dedication and skills to look for it.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://www.qcif.edu.au/&quot;&gt;Queensland Cyber Infrastructure Foundation (QCIF)&lt;/a&gt; and its bioinformatics arm &lt;a href=&quot;https://qfab.org/&quot;&gt;Queensland Facility for Advanced Bioinformatics (QFAB)&lt;/a&gt;, together with the University of Melbourne’s &lt;a href=&quot;https://www.melbournebioinformatics.org.au/&quot;&gt;Melbourne Bioinformatics&lt;/a&gt;, and the University of Queensland’s &lt;a href=&quot;https://rcc.uq.edu.au/&quot;&gt;Research Computing Centre (RCC)&lt;/a&gt; jointly built and operate Galaxy Australia.&lt;/p&gt;
-
-&lt;p&gt;Galaxy Australia Service Manager Dr Gareth Price is very proud that his team’s work has been recognised with not just one, but three iAwards.&lt;/p&gt;
-
-&lt;p&gt;“Personally, I was humbled by the calibre of entrants. We are proud to be honoured with these awards that reflect our contribution to Australian research by linking researchers and their data to national compute power and the analytical tools required to maximise research value,” he said.&lt;/p&gt;
-
-&lt;p&gt;“Galaxy Australia exists to benefit its users — it helps life sciences researchers and clinicians analyse data without having to train in data science. The outcomes from this are massive: Galaxy Australia helps research groups better understand cancer and infectious diseases, and enables collaboration nationally and internationally.”&lt;/p&gt;
-
-&lt;p&gt;Melbourne University molecular biologist and computer scientist Associate Professor Andrew Lonie was always convinced of Galaxy’s potential when the project started in 2011. “It is now a mature platform for both analysing complex data and teaching the new generation of biologists how to do this new kind of research. We’re all very proud to celebrate these awards”.&lt;/p&gt;
-
-&lt;p&gt;Galaxy Australia is jointly supported by the Australian Research Data Commons (&lt;a href=&quot;https://ardc.edu.au/&quot;&gt;ARDC&lt;/a&gt;), the &lt;a href=&quot;https://www.melbournebioinformatics.org.au/project/aust-bioinformatics-commons/&quot;&gt;Australian Bioinformatics Commons&lt;/a&gt; and &lt;a href=&quot;https://www.embl-abr.org.au/&quot;&gt;EMBL Australia Bioinformatics Resource&lt;/a&gt;, with funding from &lt;a href=&quot;https://www.bioplatforms.com/&quot;&gt;Bioplatforms Australia&lt;/a&gt; as part of the federal Government’s 12-year commitment to the National Collaborative Research Infrastructure Strategy (&lt;a href=&quot;https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris&quot;&gt;NCRIS&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;As a Queensland iAward winner, Galaxy Australia will be a finalist in the national iAwards on Thursday, 29 August in Melbourne.&lt;/p&gt;
-
-&lt;p&gt;AIIA CEO Ron Gauci said: “Each year the AIIA iAwards shine a light on the exceptional achievements of those at the forefront of Australian innovation, and the projects shaping our modern economy.”&lt;/p&gt;
-
-&lt;p&gt;National iAward winners will represent Australia at the Asia Pacific ICT Alliance (&lt;a href=&quot;http://www.apicta.org/&quot;&gt;APICTA&lt;/a&gt;) Awards, dubbed the “Oscars of the ICT arena”, in HaLong, Vietnam, 18–23 November.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;For further media information contact:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Shannon Lindsay, QCIF&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Ph: 0420 524 392&lt;/p&gt;
-
-&lt;p&gt;shannon.lindsay@qcif.edu.au&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Helen van de Pol, Melbourne Bioinformatics&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Ph: 0448 920 235&lt;/p&gt;
-
-&lt;p&gt;helen.vandepol@unimelb.edu.au&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;ABOUT US:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;QCIF&lt;/strong&gt;
-The &lt;a href=&quot;https://www.qcif.edu.au/&quot;&gt;Queensland Cyber Infrastructure Foundation&lt;/a&gt; (QCIF) provides the high-performance services, infrastructure and expertise to enable excellence in data-centric, collaborative research and its application. QCIF operates with its members and partners delivering high-value services to researchers throughout Queensland and Australia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Melbourne Bioinformatics, University of Melbourne&lt;/strong&gt;
-&lt;a href=&quot;https://www.melbournebioinformatics.org.au/&quot;&gt;Melbourne Bioinformatics&lt;/a&gt; provides bioinformatics support for all researchers and students in Melbourne’s biomedical and biosciences precinct.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Research Computing Centre, University of Queensland&lt;/strong&gt;
-The &lt;a href=&quot;https://rcc.uq.edu.au/&quot;&gt;Research Computing Centre&lt;/a&gt; (RCC) provides coordinated management and support of The University of Queensland’s sustained and substantial investment in eResearch.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bioplatforms Australia&lt;/strong&gt;
-&lt;a href=&quot;https://www.bioplatforms.com/&quot;&gt;Bioplatforms Australia&lt;/a&gt; enables Australian life science research by investing in state-of-the-art infrastructure and associated expertise in the specialist fields of genomics, proteomics, metabolomics and bioinformatics. We create open-data initiatives through collaborative research projects, which build critical ‘omic datasets that support scientific challenges of national importance.&lt;/p&gt;</content><author><name></name></author><category term="news" /><category term="release" /><summary type="html">7 June 2019</summary></entry></feed>
+&lt;p&gt;Alternatively, see the &lt;a href=&quot;https://docs.galaxyproject.org/en/release_19.05/releases/19.05_announce.html&quot;&gt;full release notes&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="devops" /><category term="update" /><summary type="html">Galaxy Australia has been upgraded to the latest Galaxy release. Version 19.05. This morning after a brief planned outage, Galaxy Australia was upgraded to the latest version of Galaxy. You will notice some changes straight away - The colour scheme is different and the look and feel has altered. Everything else is the same however!</summary></entry></feed>
