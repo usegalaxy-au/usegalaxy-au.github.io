@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-04-29T01:36:50+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Leaders in Australian Computing Research Begin Battle with COVID-19</title><link href="https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-a/" rel="alternate" type="text/html" title="Leaders in Australian Computing Research Begin Battle with COVID-19" /><published>2020-04-21T00:00:00+00:00</published><updated>2020-04-21T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-a</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-a/">&lt;p&gt;NCI Australia and the Pawsey Supercomputing Centre are supporting the Australian and international research community undertaking COVID-19 research through provision of streamlined, prioritised and expedited access to computation and data resources.&lt;/p&gt;</content><author><name></name></author><category term="news" /><category term="release" /><summary type="html">NCI Australia and the Pawsey Supercomputing Centre are supporting the Australian and international research community undertaking COVID-19 research through provision of streamlined, prioritised and expedited access to computation and data resources.</summary></entry><entry><title type="html">Galaxy Australia COVID-19 dedicated Pulsar</title><link href="https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-b/" rel="alternate" type="text/html" title="Galaxy Australia COVID-19 dedicated Pulsar" /><published>2020-04-21T00:00:00+00:00</published><updated>2020-04-21T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-b</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-b/">&lt;p&gt;Galaxy Australia relies on remote (to head node) deployments called Pulsar to increase the range and number of jobs that can be run on the service. The team has been allocated resources on the Nimbus cloud to deploy a dedicated COVID-19 Pulsar as part of Galaxy Australia at the Pawsey Centre that allows Galaxy users to rapidly analyse their data on published tools/workflows to further research into SARS-CoV-2.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-04-29T03:02:15+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2020-04-24</title><link href="https://usegalaxy-au.github.io/posts/2020/04/24/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-04-24" /><published>2020-04-24T00:00:00+00:00</published><updated>2020-04-24T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/04/24/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/04/24/tool-updates/">&lt;style&gt;
+  table {
+    width: 100%;
+    margin: 10px 20px;
+  }
+  table th {
+    display: none;
+  }
+  td {
+    padding: 3px 5px;
+  }
+  tr td:nth-child(1) {
+    vertical-align: top;
+    width: 25%;
+  }
+&lt;/style&gt;
+
+&lt;h3 id=&quot;tools-installed&quot;&gt;Tools installed&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Blast +&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;diamond &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/diamond/62c9df8382c2&quot;&gt;62c9df8382c2&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;FASTA/FASTQ&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;seqtk &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/seqtk/58c8ece95b53&quot;&gt;58c8ece95b53&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;SAM/BAM&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;samtools_view &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/samtools_view/b01db2684fa5&quot;&gt;b01db2684fa5&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;tools-updated&quot;&gt;Tools updated&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Assembly&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;racon &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/racon/a199cd7ac344&quot;&gt;a199cd7ac344&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;FASTA/FASTQ&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;umi_tools_count &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/umi_tools_count/b557acca0b56&quot;&gt;b557acca0b56&lt;/a&gt;&lt;br /&gt;umi_tools_extract &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/umi_tools_extract/828dba98cdb4&quot;&gt;828dba98cdb4&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;iVar&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;ivar_consensus &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_consensus/d6e72da3ec35&quot;&gt;d6e72da3ec35&lt;/a&gt;&lt;br /&gt;ivar_filtervariants &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_filtervariants/f91cfb73d369&quot;&gt;f91cfb73d369&lt;/a&gt;&lt;br /&gt;ivar_getmasked &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_getmasked/d7e79eb3bcb3&quot;&gt;d7e79eb3bcb3&lt;/a&gt;&lt;br /&gt;ivar_removereads &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_removereads/94df24c6bc00&quot;&gt;94df24c6bc00&lt;/a&gt;&lt;br /&gt;ivar_variants &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_variants/e1a015876aa9&quot;&gt;e1a015876aa9&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Leaders in Australian Computing Research Begin Battle with COVID-19</title><link href="https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-a/" rel="alternate" type="text/html" title="Leaders in Australian Computing Research Begin Battle with COVID-19" /><published>2020-04-21T00:00:00+00:00</published><updated>2020-04-21T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-a</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-a/">&lt;p&gt;NCI Australia and the Pawsey Supercomputing Centre are supporting the Australian and international research community undertaking COVID-19 research through provision of streamlined, prioritised and expedited access to computation and data resources.&lt;/p&gt;</content><author><name></name></author><category term="news" /><category term="release" /><summary type="html">NCI Australia and the Pawsey Supercomputing Centre are supporting the Australian and international research community undertaking COVID-19 research through provision of streamlined, prioritised and expedited access to computation and data resources.</summary></entry><entry><title type="html">Galaxy Australia COVID-19 dedicated Pulsar</title><link href="https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-b/" rel="alternate" type="text/html" title="Galaxy Australia COVID-19 dedicated Pulsar" /><published>2020-04-21T00:00:00+00:00</published><updated>2020-04-21T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-b</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-b/">&lt;p&gt;Galaxy Australia relies on remote (to head node) deployments called Pulsar to increase the range and number of jobs that can be run on the service. The team has been allocated resources on the Nimbus cloud to deploy a dedicated COVID-19 Pulsar as part of Galaxy Australia at the Pawsey Centre that allows Galaxy users to rapidly analyse their data on published tools/workflows to further research into SARS-CoV-2.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Dr. Gareth Price&lt;/li&gt;
@@ -589,6 +654,4 @@ This release includes:&lt;/p&gt;
 
 &lt;p&gt;Alternatively, see the &lt;a href=&quot;https://docs.galaxyproject.org/en/master/releases/20.01_announce.html&quot;&gt;full release notes&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Galaxy Australia will be moving to this Galaxy version in mid March. More information will be forthcoming.&lt;/p&gt;</content><author><name></name></author><category term="devops" /><summary type="html">Galaxy 20.01 has now been released! This release includes:</summary></entry><entry><title type="html">Galaxy Australia contributes to global research effort into COVID-19</title><link href="https://usegalaxy-au.github.io/posts/2020/02/27/galaxy-global-paper/" rel="alternate" type="text/html" title="Galaxy Australia contributes to global research effort into COVID-19" /><published>2020-02-27T00:00:00+00:00</published><updated>2020-02-27T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/02/27/galaxy-global-paper</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/02/27/galaxy-global-paper/">&lt;p&gt;A joint paper by Galaxy teams from Australia, Europe and the United States demonstrated how the COVID-19 genome data can be shared, analysed and reproduced in an efficient and transparent way. Find the paper at &lt;a href=&quot;https://www.biocommons.org.au/galaxy-covid-19&quot; target=&quot;_blank&quot;&gt;https://www.biocommons.org.au/galaxy-covid-19&lt;/a&gt; and the workflows ready for use here in Galaxy Australia under Shared Data / Workflows.&lt;/p&gt;
-
-&lt;p&gt;Galaxy Australia Team&lt;/p&gt;</content><author><name></name></author><category term="news" /><summary type="html">A joint paper by Galaxy teams from Australia, Europe and the United States demonstrated how the COVID-19 genome data can be shared, analysed and reproduced in an efficient and transparent way. Find the paper at https://www.biocommons.org.au/galaxy-covid-19 and the workflows ready for use here in Galaxy Australia under Shared Data / Workflows.</summary></entry></feed>
+&lt;p&gt;Galaxy Australia will be moving to this Galaxy version in mid March. More information will be forthcoming.&lt;/p&gt;</content><author><name></name></author><category term="devops" /><summary type="html">Galaxy 20.01 has now been released! This release includes:</summary></entry></feed>
