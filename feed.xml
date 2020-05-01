@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-04-29T05:33:46+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2020-04-24</title><link href="https://usegalaxy-au.github.io/posts/2020/04/24/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-04-24" /><published>2020-04-24T00:00:00+00:00</published><updated>2020-04-24T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/04/24/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/04/24/tool-updates/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-05-01T04:12:03+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2020-05-01</title><link href="https://usegalaxy-au.github.io/posts/2020/05/01/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-05-01" /><published>2020-05-01T00:00:00+00:00</published><updated>2020-05-01T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/05/01/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/05/01/tool-updates/">&lt;style&gt;
+  table {
+    width: 100%;
+    margin: 10px 20px;
+  }
+  table th {
+    display: none;
+  }
+  td {
+    padding: 3px 5px;
+  }
+  tr td:nth-child(1) {
+    vertical-align: top;
+    width: 25%;
+  }
+&lt;/style&gt;
+
+&lt;h3 id=&quot;tools-installed&quot;&gt;Tools installed&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Annotation&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;maker_map_ids &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/maker_map_ids/326f9c294b09&quot;&gt;326f9c294b09&lt;/a&gt;&lt;br /&gt;snap_training &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/snap_training/2a598c0aa042&quot;&gt;2a598c0aa042&lt;/a&gt;&lt;br /&gt;augustus_training &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/augustus_training/6519ebe25019&quot;&gt;6519ebe25019&lt;/a&gt;&lt;br /&gt;jcvi_gff_stats &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/jcvi_gff_stats/8cffbd184762&quot;&gt;8cffbd184762&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;tools-updated&quot;&gt;Tools updated&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Annotation&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;abricate &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/abricate/b734db305578&quot;&gt;b734db305578&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;ChemicalToolBox&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;rdock_rbdock &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/rdock_rbdock/07fa39ed62c7&quot;&gt;07fa39ed62c7&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;FASTA/FASTQ&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;fastp &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/fastp/dbf9c561ef29&quot;&gt;dbf9c561ef29&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Get Data&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;sra_tools &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/sra_tools/c441583adae5&quot;&gt;c441583adae5&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;iVar&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;ivar_trim &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_trim/cb903c9dc33d&quot;&gt;cb903c9dc33d&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Australia tool updates 2020-04-24</title><link href="https://usegalaxy-au.github.io/posts/2020/04/24/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-04-24" /><published>2020-04-24T00:00:00+00:00</published><updated>2020-04-24T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/04/24/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/04/24/tool-updates/">&lt;style&gt;
   table {
     width: 100%;
     margin: 10px 20px;
@@ -640,18 +705,4 @@ This morning after a brief planned outage, Galaxy Australia was upgraded to the 
   &lt;li&gt;lofreq_viterbi revision &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/lofreq_viterbi/ecd80c7c3886&quot;&gt;ecd80c7c3886&lt;/a&gt; was installed&lt;/li&gt;
   &lt;li&gt;lofreq_call revision &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/lofreq_call/03627f24605f&quot;&gt;03627f24605f&lt;/a&gt; was installed&lt;/li&gt;
   &lt;li&gt;freebayes was updated to &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/freebayes/ef2c525bd8cd&quot;&gt;ef2c525bd8cd&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="tools" /><summary type="html">The following tools have been installed/updated on Galaxy Australia</summary></entry><entry><title type="html">Galaxy Version 20.01 Released</title><link href="https://usegalaxy-au.github.io/posts/2020/03/01/Galaxy-version-20-01-released/" rel="alternate" type="text/html" title="Galaxy Version 20.01 Released" /><published>2020-03-01T00:00:00+00:00</published><updated>2020-03-01T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/03/01/Galaxy-version-20-01-released</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/03/01/Galaxy-version-20-01-released/">&lt;p&gt;&lt;strong&gt;Galaxy 20.01 has now been released!&lt;/strong&gt;
-&lt;br /&gt;
-This release includes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;New workflow executions menu - track your workflow as it executes&lt;/li&gt;
-  &lt;li&gt;Enhanced workflow functionality - optional parameters and more&lt;/li&gt;
-  &lt;li&gt;Email notifications of completed jobs&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Please see the &lt;a href=&quot;https://docs.galaxyproject.org/en/master/releases/20.01_announce_user.html&quot;&gt;user release notes&lt;/a&gt; for additional information.&lt;/p&gt;
-
-&lt;p&gt;Alternatively, see the &lt;a href=&quot;https://docs.galaxyproject.org/en/master/releases/20.01_announce.html&quot;&gt;full release notes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Galaxy Australia will be moving to this Galaxy version in mid March. More information will be forthcoming.&lt;/p&gt;</content><author><name></name></author><category term="devops" /><summary type="html">Galaxy 20.01 has now been released! This release includes:</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="tools" /><summary type="html">The following tools have been installed/updated on Galaxy Australia</summary></entry></feed>
