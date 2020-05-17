@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-05-11T05:47:08+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2020-05-08</title><link href="https://usegalaxy-au.github.io/posts/2020/05/08/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-05-08" /><published>2020-05-08T00:00:00+00:00</published><updated>2020-05-08T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/05/08/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/05/08/tool-updates/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-05-17T12:51:46+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2020-05-12</title><link href="https://usegalaxy-au.github.io/posts/2020/05/12/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-05-12" /><published>2020-05-12T00:00:00+00:00</published><updated>2020-05-12T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/05/12/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/05/12/tool-updates/">&lt;style&gt;
+  table {
+    width: 100%;
+    margin: 10px 20px;
+  }
+  table th {
+    display: none;
+  }
+  td {
+    padding: 3px 5px;
+  }
+  tr td:nth-child(1) {
+    vertical-align: top;
+    width: 25%;
+  }
+&lt;/style&gt;
+
+&lt;h3 id=&quot;tools-installed&quot;&gt;Tools installed&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Graph/Display Data&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;ggplot2_point &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ggplot2_point/87908c76ca8d&quot;&gt;87908c76ca8d&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Statistics&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;sklearn_numeric_clustering &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/sklearn_numeric_clustering/1dd433d2c92c&quot;&gt;1dd433d2c92c&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;tools-updated&quot;&gt;Tools updated&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Mapping&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;minimap2 &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/minimap2/53c0b7a1a0c3&quot;&gt;53c0b7a1a0c3&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Phylogenetics&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;hyphy_absrel &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hyphy_absrel/c78f3d7dd1db&quot;&gt;c78f3d7dd1db&lt;/a&gt;&lt;br /&gt;hyphy_gard &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hyphy_gard/7a2092844346&quot;&gt;7a2092844346&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;RNA-seq&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;kallisto_quant &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/kallisto_quant/60f888039fb2&quot;&gt;60f888039fb2&lt;/a&gt;&lt;br /&gt;salmon &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/salmon/e3d32471da11&quot;&gt;e3d32471da11&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Text Manipulation&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;regex_find_replace &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/regex_find_replace/538933d9fccc&quot;&gt;538933d9fccc&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Australia tool updates 2020-05-08</title><link href="https://usegalaxy-au.github.io/posts/2020/05/08/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-05-08" /><published>2020-05-08T00:00:00+00:00</published><updated>2020-05-08T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/05/08/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/05/08/tool-updates/">&lt;style&gt;
   table {
     width: 100%;
     margin: 10px 20px;
@@ -501,4 +566,4 @@
   &lt;li&gt;ivar_trim revision &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_trim/8858fa037a15&quot;&gt;8858fa037a15&lt;/a&gt;, &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_trim/d37ede8589b2&quot;&gt;d37ede8589b2&lt;/a&gt; was installed&lt;/li&gt;
   &lt;li&gt;ivar_variants revision &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_variants/12d66d0d05ac&quot;&gt;12d66d0d05ac&lt;/a&gt;, &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_variants/c5c9f02b6167&quot;&gt;c5c9f02b6167&lt;/a&gt; was installed&lt;/li&gt;
   &lt;li&gt;ivar_getmasked was updated to &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_getmasked/fafb3d685fa9&quot;&gt;fafb3d685fa9&lt;/a&gt;, &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_getmasked/ad0dc9f4c9e2&quot;&gt;ad0dc9f4c9e2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="tools" /><summary type="html">The following tools have been installed/updated on Galaxy Australia</summary></entry><entry><title type="html">We just lost James Taylor (1979-2020)</title><link href="https://usegalaxy-au.github.io/posts/2020/04/03/james-taylor/" rel="alternate" type="text/html" title="We just lost James Taylor (1979-2020)" /><published>2020-04-03T00:00:00+00:00</published><updated>2020-04-03T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/04/03/james-taylor</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/04/03/james-taylor/">&lt;p&gt;We just lost James Taylor (1979-2020). His legacy — open, reproducible science — will continue.&lt;/p&gt;</content><author><name></name></author><summary type="html">We just lost James Taylor (1979-2020). His legacy — open, reproducible science — will continue.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="tools" /><summary type="html">The following tools have been installed/updated on Galaxy Australia</summary></entry></feed>
