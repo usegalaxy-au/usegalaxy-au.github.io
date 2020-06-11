@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-06-04T04:00:35+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2020 update</title><link href="https://usegalaxy-au.github.io/posts/2020/06/03/new-galaxy-paper/" rel="alternate" type="text/html" title="The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2020 update" /><published>2020-06-03T00:00:00+00:00</published><updated>2020-06-03T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/06/03/new-galaxy-paper</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/06/03/new-galaxy-paper/">&lt;p&gt;If your use of Galaxy Australia leads to publication, please cite this paper to help promote the value of the Galaxy Australia platform to reproducible science.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-06-11T00:07:54+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2020-06-09</title><link href="https://usegalaxy-au.github.io/posts/2020/06/09/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-06-09" /><published>2020-06-09T00:00:00+00:00</published><updated>2020-06-09T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/06/09/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/06/09/tool-updates/">&lt;style&gt;
+  table {
+    width: 100%;
+    margin: 10px 20px;
+  }
+  table th {
+    display: none;
+  }
+  td {
+    padding: 3px 5px;
+  }
+  tr td:nth-child(1) {
+    vertical-align: top;
+    width: 25%;
+  }
+&lt;/style&gt;
+
+&lt;h3 id=&quot;tools-installed&quot;&gt;Tools installed&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;ChemicalToolBox&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;ctb_frankenstein_ligand &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/ctb_frankenstein_ligand/8e214e52e461&quot;&gt;8e214e52e461&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Proteomics&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;dia_umpire &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/dia_umpire/2b785516abfc&quot;&gt;2b785516abfc&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;tools-updated&quot;&gt;Tools updated&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Bacterial Typing&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;mlst &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/mlst/ded48b36f3b7&quot;&gt;ded48b36f3b7&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Get Data&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;sra_tools &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/sra_tools/7068f48d0ef9&quot;&gt;7068f48d0ef9&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Proteomics&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;maxquant &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/maxquant/2133b0be850a&quot;&gt;2133b0be850a&lt;/a&gt;&lt;br /&gt;maxquant_mqpar &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/maxquant_mqpar/2d67fb758956&quot;&gt;2d67fb758956&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Text Manipulation&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;column_maker &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/column_maker/be25c075ed54&quot;&gt;be25c075ed54&lt;/a&gt;&lt;br /&gt;merge_cols &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/merge_cols/dd40b1e9eebe&quot;&gt;dd40b1e9eebe&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;iVar&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;ivar_consensus &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_consensus/7f781286b55f&quot;&gt;7f781286b55f&lt;/a&gt;&lt;br /&gt;ivar_filtervariants &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_filtervariants/2c47c138176e&quot;&gt;2c47c138176e&lt;/a&gt;&lt;br /&gt;ivar_getmasked &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_getmasked/2cf4a1cafc16&quot;&gt;2cf4a1cafc16&lt;/a&gt;&lt;br /&gt;ivar_removereads &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_removereads/3d18f8c3c0f6&quot;&gt;3d18f8c3c0f6&lt;/a&gt;&lt;br /&gt;ivar_variants &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_variants/aa9de8f20668&quot;&gt;aa9de8f20668&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2020 update</title><link href="https://usegalaxy-au.github.io/posts/2020/06/03/new-galaxy-paper/" rel="alternate" type="text/html" title="The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2020 update" /><published>2020-06-03T00:00:00+00:00</published><updated>2020-06-03T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/06/03/new-galaxy-paper</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/06/03/new-galaxy-paper/">&lt;p&gt;If your use of Galaxy Australia leads to publication, please cite this paper to help promote the value of the Galaxy Australia platform to reproducible science.&lt;/p&gt;
 
 &lt;p&gt;The Galaxy Project has a new paper in Nucleic Acids Research.&lt;/p&gt;
 
@@ -530,4 +599,4 @@
       &lt;td&gt;ivar_consensus &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_consensus/d6e72da3ec35&quot;&gt;d6e72da3ec35&lt;/a&gt;&lt;br /&gt;ivar_filtervariants &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_filtervariants/f91cfb73d369&quot;&gt;f91cfb73d369&lt;/a&gt;&lt;br /&gt;ivar_getmasked &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_getmasked/d7e79eb3bcb3&quot;&gt;d7e79eb3bcb3&lt;/a&gt;&lt;br /&gt;ivar_removereads &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_removereads/94df24c6bc00&quot;&gt;94df24c6bc00&lt;/a&gt;&lt;br /&gt;ivar_variants &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_variants/e1a015876aa9&quot;&gt;e1a015876aa9&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Leaders in Australian Computing Research Begin Battle with COVID-19</title><link href="https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-a/" rel="alternate" type="text/html" title="Leaders in Australian Computing Research Begin Battle with COVID-19" /><published>2020-04-21T00:00:00+00:00</published><updated>2020-04-21T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-a</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/04/21/covid-update-a/">&lt;p&gt;NCI Australia and the Pawsey Supercomputing Centre are supporting the Australian and international research community undertaking COVID-19 research through provision of streamlined, prioritised and expedited access to computation and data resources.&lt;/p&gt;</content><author><name></name></author><category term="news" /><category term="release" /><summary type="html">NCI Australia and the Pawsey Supercomputing Centre are supporting the Australian and international research community undertaking COVID-19 research through provision of streamlined, prioritised and expedited access to computation and data resources.</summary></entry></feed>
+&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry></feed>
