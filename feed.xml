@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-06-19T00:24:21+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galactic News June 2020</title><link href="https://usegalaxy-au.github.io/posts/2020/06/18/Galaxy-june-news/" rel="alternate" type="text/html" title="Galactic News June 2020" /><published>2020-06-18T00:00:00+00:00</published><updated>2020-06-18T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/06/18/Galaxy-june-news</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/06/18/Galaxy-june-news/"></content><author><name></name></author><category term="galaxy" /><category term="news" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Australia tool updates 2020-06-16</title><link href="https://usegalaxy-au.github.io/posts/2020/06/16/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-06-16" /><published>2020-06-16T00:00:00+00:00</published><updated>2020-06-16T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/06/16/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/06/16/tool-updates/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-06-23T23:07:34+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2020-06-23</title><link href="https://usegalaxy-au.github.io/posts/2020/06/23/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-06-23" /><published>2020-06-23T00:00:00+00:00</published><updated>2020-06-23T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/06/23/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/06/23/tool-updates/">&lt;style&gt;
+  table {
+    width: 100%;
+    margin: 10px 20px;
+  }
+  table th {
+    display: none;
+  }
+  td {
+    padding: 3px 5px;
+  }
+  tr td:nth-child(1) {
+    vertical-align: top;
+    width: 25%;
+  }
+&lt;/style&gt;
+
+&lt;h3 id=&quot;tools-installed&quot;&gt;Tools installed&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Convert Formats&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;thermo_raw_file_converter &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/thermo_raw_file_converter/63769c4217a7&quot;&gt;63769c4217a7&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Proteomics&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;proteomics_moff &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/proteomics_moff/a96af68dafb2&quot;&gt;a96af68dafb2&lt;/a&gt;&lt;br /&gt;rawtools &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/rawtools/51e4aa55ea04&quot;&gt;51e4aa55ea04&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;tools-updated&quot;&gt;Tools updated&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Phylogenetics&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;hyphy_absrel &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hyphy_absrel/8834daeb9892&quot;&gt;8834daeb9892&lt;/a&gt;&lt;br /&gt;hyphy_gard &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hyphy_gard/df47d4845b62&quot;&gt;df47d4845b62&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;RNA-seq&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;cuffcompare &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cuffcompare/f648e5180e40&quot;&gt;f648e5180e40&lt;/a&gt;&lt;br /&gt;cuffdiff &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cuffdiff/43b36b3d4333&quot;&gt;43b36b3d4333&lt;/a&gt;&lt;br /&gt;cufflinks &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cufflinks/d080005cffe1&quot;&gt;d080005cffe1&lt;/a&gt;&lt;br /&gt;cuffmerge &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cuffmerge/6a6717a5f421&quot;&gt;6a6717a5f421&lt;/a&gt;&lt;br /&gt;cuffnorm &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cuffnorm/6cbfede05833&quot;&gt;6cbfede05833&lt;/a&gt;&lt;br /&gt;cuffquant &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cuffquant/679d93c99757&quot;&gt;679d93c99757&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;iVar&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;ivar_consensus &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_consensus/78bbd17d0703&quot;&gt;78bbd17d0703&lt;/a&gt;&lt;br /&gt;ivar_filtervariants &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_filtervariants/7fe36019c073&quot;&gt;7fe36019c073&lt;/a&gt;&lt;br /&gt;ivar_removereads &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_removereads/ee2beb764a7b&quot;&gt;ee2beb764a7b&lt;/a&gt;&lt;br /&gt;ivar_variants &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_variants/f95f403841ad&quot;&gt;f95f403841ad&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galactic News June 2020</title><link href="https://usegalaxy-au.github.io/posts/2020/06/18/Galaxy-june-news/" rel="alternate" type="text/html" title="Galactic News June 2020" /><published>2020-06-18T00:00:00+00:00</published><updated>2020-06-18T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/06/18/Galaxy-june-news</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/06/18/Galaxy-june-news/"></content><author><name></name></author><category term="galaxy" /><category term="news" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Australia tool updates 2020-06-16</title><link href="https://usegalaxy-au.github.io/posts/2020/06/16/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-06-16" /><published>2020-06-16T00:00:00+00:00</published><updated>2020-06-16T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/06/16/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/06/16/tool-updates/">&lt;style&gt;
   table {
     width: 100%;
     margin: 10px 20px;
@@ -536,10 +597,4 @@
       &lt;td&gt;samtools_calmd &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/samtools_calmd/06dc50b7b711&quot;&gt;06dc50b7b711&lt;/a&gt;&lt;br /&gt;samtools_split &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/samtools_split/135c85f4cfaf&quot;&gt;135c85f4cfaf&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galactic News May 2020</title><link href="https://usegalaxy-au.github.io/posts/2020/05/07/Galaxy-may-news/" rel="alternate" type="text/html" title="Galactic News May 2020" /><published>2020-05-07T00:00:00+00:00</published><updated>2020-05-07T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/05/07/Galaxy-may-news</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/05/07/Galaxy-may-news/"></content><author><name></name></author><category term="galaxy" /><category term="news" /><summary type="html"></summary></entry><entry><title type="html">The James Taylor Foundation: Big shoes to fill</title><link href="https://usegalaxy-au.github.io/posts/2020/05/07/james-taylor/" rel="alternate" type="text/html" title="The James Taylor Foundation: Big shoes to fill" /><published>2020-05-07T00:00:00+00:00</published><updated>2020-05-07T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/05/07/james-taylor</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/05/07/james-taylor/">&lt;p&gt;&lt;strong&gt;JTech: Junior Training and Educational Connections Hotspot&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The James Taylor Foundation: Big shoes to fill&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The most important job of senior faculty is to mentor junior faculty and students. (@jxtx)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;These are the words that James Taylor (JT) said and lived by. This, he believed, was imperative to advance science, and in a way that facilitated diversity and inclusion. The mission of this foundation is to continue his legacy, through a multifaceted approach which will be unrolled across several stages.&lt;/p&gt;</content><author><name></name></author><summary type="html">JTech: Junior Training and Educational Connections Hotspot</summary></entry></feed>
+&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galactic News May 2020</title><link href="https://usegalaxy-au.github.io/posts/2020/05/07/Galaxy-may-news/" rel="alternate" type="text/html" title="Galactic News May 2020" /><published>2020-05-07T00:00:00+00:00</published><updated>2020-05-07T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/05/07/Galaxy-may-news</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/05/07/Galaxy-may-news/"></content><author><name></name></author><category term="galaxy" /><category term="news" /><summary type="html"></summary></entry></feed>
