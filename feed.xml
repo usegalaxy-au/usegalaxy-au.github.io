@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-06-23T23:07:34+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2020-06-23</title><link href="https://usegalaxy-au.github.io/posts/2020/06/23/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-06-23" /><published>2020-06-23T00:00:00+00:00</published><updated>2020-06-23T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/06/23/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/06/23/tool-updates/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-07-02T00:41:08+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galactic News July 2020</title><link href="https://usegalaxy-au.github.io/posts/2020/07/01/Galaxy-july-news/" rel="alternate" type="text/html" title="Galactic News July 2020" /><published>2020-07-01T00:00:00+00:00</published><updated>2020-07-01T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/07/01/Galaxy-july-news</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/07/01/Galaxy-july-news/"></content><author><name></name></author><category term="galaxy" /><category term="news" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Version 20.05 Released</title><link href="https://usegalaxy-au.github.io/posts/2020/07/01/Galaxy-version-20-05-released/" rel="alternate" type="text/html" title="Galaxy Version 20.05 Released" /><published>2020-07-01T00:00:00+00:00</published><updated>2020-07-01T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/07/01/Galaxy-version-20-05-released</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/07/01/Galaxy-version-20-05-released/">&lt;p&gt;&lt;strong&gt;Galaxy 20.05 has now been released!&lt;/strong&gt;
+&lt;br /&gt;
+This release includes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tool recommendations - the workflow editor can suggest tools to chain with the current one&lt;/li&gt;
+  &lt;li&gt;More support for logins from different sources (AAF, Elixir, Google etc.)&lt;/li&gt;
+  &lt;li&gt;New visualisations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please see the &lt;a href=&quot;https://docs.galaxyproject.org/en/master/releases/20.05_announce_user.html&quot;&gt;user release notes&lt;/a&gt; for additional information.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, see the &lt;a href=&quot;https://docs.galaxyproject.org/en/master/releases/20.05_announce.html&quot;&gt;full release notes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Galaxy Australia will be moving to this Galaxy version in mid July. More information will be forthcoming.&lt;/p&gt;</content><author><name></name></author><category term="devops" /><summary type="html">Galaxy 20.05 has now been released! This release includes:</summary></entry><entry><title type="html">Galaxy Australia tool updates 2020-06-23</title><link href="https://usegalaxy-au.github.io/posts/2020/06/23/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-06-23" /><published>2020-06-23T00:00:00+00:00</published><updated>2020-06-23T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/06/23/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/06/23/tool-updates/">&lt;style&gt;
   table {
     width: 100%;
     margin: 10px 20px;
@@ -508,93 +522,4 @@
       &lt;td&gt;regex_find_replace &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/regex_find_replace/538933d9fccc&quot;&gt;538933d9fccc&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Australia tool updates 2020-05-08</title><link href="https://usegalaxy-au.github.io/posts/2020/05/08/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-05-08" /><published>2020-05-08T00:00:00+00:00</published><updated>2020-05-08T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/05/08/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/05/08/tool-updates/">&lt;style&gt;
-  table {
-    width: 100%;
-    margin: 10px 20px;
-  }
-  table th {
-    display: none;
-  }
-  td {
-    padding: 3px 5px;
-  }
-  tr td:nth-child(1) {
-    vertical-align: top;
-    width: 25%;
-  }
-&lt;/style&gt;
-
-&lt;h3 id=&quot;tools-installed&quot;&gt;Tools installed&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Section&lt;/th&gt;
-      &lt;th&gt;Tool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Assembly&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;miniasm &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/miniasm/2dcd07f40204&quot;&gt;2dcd07f40204&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Blast +&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;taxonomy_krona_chart &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/crs4/taxonomy_krona_chart/1334cb4c6b68&quot;&gt;1334cb4c6b68&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Convert Formats&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;gfa_to_fa &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/gfa_to_fa/8e9d604e92f4&quot;&gt;8e9d604e92f4&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Graph/Display Data&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;export2graphlan &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/export2graphlan/b16989c1e3a7&quot;&gt;b16989c1e3a7&lt;/a&gt;&lt;br /&gt;graphlan_annotate &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/graphlan_annotate/cf1df6b2220a&quot;&gt;cf1df6b2220a&lt;/a&gt;&lt;br /&gt;graphlan &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/graphlan/a490b70e46fc&quot;&gt;a490b70e46fc&lt;/a&gt;&lt;br /&gt;newick_utils &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/newick_utils/b4163d2f64ab&quot;&gt;b4163d2f64ab&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Metagenomic Analysis&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;humann2_genefamilies_genus_level &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/humann2_genefamilies_genus_level/6d364c65c946&quot;&gt;6d364c65c946&lt;/a&gt;&lt;br /&gt;humann2_regroup_table &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/humann2_regroup_table/6aad8ca3918b&quot;&gt;6aad8ca3918b&lt;/a&gt;&lt;br /&gt;humann2_renorm_table &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/humann2_renorm_table/d77397f09da1&quot;&gt;d77397f09da1&lt;/a&gt;&lt;br /&gt;humann2_unpack_pathways &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/humann2_unpack_pathways/7f208f1eb64f&quot;&gt;7f208f1eb64f&lt;/a&gt;&lt;br /&gt;metaphlan2krona &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/metaphlan2krona/fdbd63e92b01&quot;&gt;fdbd63e92b01&lt;/a&gt;&lt;br /&gt;staramr &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/nml/staramr/aeaa20b96ef2&quot;&gt;aeaa20b96ef2&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Statistics&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;sklearn_estimator_attributes &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/sklearn_estimator_attributes/bd27a211182a&quot;&gt;bd27a211182a&lt;/a&gt;&lt;br /&gt;sklearn_nn_classifier &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/sklearn_nn_classifier/39ae3c043096&quot;&gt;39ae3c043096&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;tools-updated&quot;&gt;Tools updated&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Section&lt;/th&gt;
-      &lt;th&gt;Tool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;ChemicalToolBox&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;rdock_rbcavity &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/rdock_rbcavity/82193638d0c5&quot;&gt;82193638d0c5&lt;/a&gt;&lt;br /&gt;rdock_rbdock &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/rdock_rbdock/309fd04bcfd2&quot;&gt;309fd04bcfd2&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Graph/Display Data&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;jbrowse &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/jbrowse/fd5dbf0f732e&quot;&gt;fd5dbf0f732e&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Mapping&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;bowtie2 &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/bowtie2/749c918495f7&quot;&gt;749c918495f7&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Phylogenetics&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;hyphy_absrel &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hyphy_absrel/107d3ba7024a&quot;&gt;107d3ba7024a&lt;/a&gt;&lt;br /&gt;hyphy_gard &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hyphy_gard/e75442c7f4da&quot;&gt;e75442c7f4da&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;RNA-seq&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;deseq2 &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/deseq2/71bacea10eee&quot;&gt;71bacea10eee&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;SAM/BAM&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;samtools_calmd &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/samtools_calmd/06dc50b7b711&quot;&gt;06dc50b7b711&lt;/a&gt;&lt;br /&gt;samtools_split &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/samtools_split/135c85f4cfaf&quot;&gt;135c85f4cfaf&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galactic News May 2020</title><link href="https://usegalaxy-au.github.io/posts/2020/05/07/Galaxy-may-news/" rel="alternate" type="text/html" title="Galactic News May 2020" /><published>2020-05-07T00:00:00+00:00</published><updated>2020-05-07T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/05/07/Galaxy-may-news</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/05/07/Galaxy-may-news/"></content><author><name></name></author><category term="galaxy" /><category term="news" /><summary type="html"></summary></entry></feed>
+&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry></feed>
