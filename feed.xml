@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-07-24T07:26:35+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2020-07-07</title><link href="https://usegalaxy-au.github.io/posts/2020/07/07/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-07-07" /><published>2020-07-07T00:00:00+00:00</published><updated>2020-07-07T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/07/07/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/07/07/tool-updates/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-07-28T21:25:17+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2020-07-28</title><link href="https://usegalaxy-au.github.io/posts/2020/07/28/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-07-28" /><published>2020-07-28T00:00:00+00:00</published><updated>2020-07-28T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/07/28/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/07/28/tool-updates/">&lt;style&gt;
+  table {
+    width: 100%;
+    margin: 10px 20px;
+  }
+  table th {
+    display: none;
+  }
+  td {
+    padding: 3px 5px;
+  }
+  tr td:nth-child(1) {
+    vertical-align: top;
+    width: 25%;
+  }
+&lt;/style&gt;
+
+&lt;h3 id=&quot;tools-installed&quot;&gt;Tools installed&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Convert Formats&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;bed_to_protein_map &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/bed_to_protein_map/a7c58b43cbaa&quot;&gt;a7c58b43cbaa&lt;/a&gt;&lt;br /&gt;gffcompare_to_bed &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/gffcompare_to_bed/9a4cfc910674&quot;&gt;9a4cfc910674&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;FASTQ Quality Control&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;fastqe &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/fastqe/a252d8415583&quot;&gt;a252d8415583&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;RAD-seq&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;stacks2_clonefilter &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/stacks2_clonefilter/2f1d464ebfd2&quot;&gt;2f1d464ebfd2&lt;/a&gt;&lt;br /&gt;stacks2_cstacks &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/stacks2_cstacks/fcce77c09289&quot;&gt;fcce77c09289&lt;/a&gt;&lt;br /&gt;stacks2_denovomap &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/stacks2_denovomap/421c33b8bf17&quot;&gt;421c33b8bf17&lt;/a&gt;&lt;br /&gt;stacks2_gstacks &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/stacks2_gstacks/1d839ead7ad3&quot;&gt;1d839ead7ad3&lt;/a&gt;&lt;br /&gt;stacks2_kmerfilter &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/stacks2_kmerfilter/8a55d29c8fcf&quot;&gt;8a55d29c8fcf&lt;/a&gt;&lt;br /&gt;stacks2_populations &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/stacks2_populations/b242deb58952&quot;&gt;b242deb58952&lt;/a&gt;&lt;br /&gt;stacks2_procrad &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/stacks2_procrad/bd5ff77e2036&quot;&gt;bd5ff77e2036&lt;/a&gt;&lt;br /&gt;stacks2_refmap &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/stacks2_refmap/6dafad990086&quot;&gt;6dafad990086&lt;/a&gt;&lt;br /&gt;stacks2_shortreads &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/stacks2_shortreads/43e3eeb2e0ec&quot;&gt;43e3eeb2e0ec&lt;/a&gt;&lt;br /&gt;stacks2_sstacks &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/stacks2_sstacks/0b8c84a7fdb5&quot;&gt;0b8c84a7fdb5&lt;/a&gt;&lt;br /&gt;stacks2_tsv2bam &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/stacks2_tsv2bam/bf0e43ab0416&quot;&gt;bf0e43ab0416&lt;/a&gt;&lt;br /&gt;stacks2_ustacks &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/stacks2_ustacks/d033e1ccb386&quot;&gt;d033e1ccb386&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Text Manipulation&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;collection_element_identifiers &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/collection_element_identifiers/d3c07d270a50&quot;&gt;d3c07d270a50&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;tools-updated&quot;&gt;Tools updated&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Collection Operations&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;split_file_to_collection &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/split_file_to_collection/6cbe2f30c2d7&quot;&gt;6cbe2f30c2d7&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Graph/Display Data&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;histogram &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/histogram/6f134426c2b0&quot;&gt;6f134426c2b0&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;RNA-seq&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;cummerbund &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cummerbund/c3b54a4b7741&quot;&gt;c3b54a4b7741&lt;/a&gt;&lt;br /&gt;cuffnorm &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cuffnorm/9a854107dbb2&quot;&gt;9a854107dbb2&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Single-cell&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;anndata_import &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/anndata_import/00712416fdaa&quot;&gt;00712416fdaa&lt;/a&gt;&lt;br /&gt;anndata_inspect &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/anndata_inspect/39e945f0b2c1&quot;&gt;39e945f0b2c1&lt;/a&gt;&lt;br /&gt;anndata_manipulate &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/anndata_manipulate/43cb7b5a6fe7&quot;&gt;43cb7b5a6fe7&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Text Manipulation&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;column_maker &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/column_maker/6e8d94597139&quot;&gt;6e8d94597139&lt;/a&gt;&lt;br /&gt;merge_cols &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/merge_cols/ae7843d06f8f&quot;&gt;ae7843d06f8f&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Australia tool updates 2020-07-07</title><link href="https://usegalaxy-au.github.io/posts/2020/07/07/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-07-07" /><published>2020-07-07T00:00:00+00:00</published><updated>2020-07-07T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/07/07/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/07/07/tool-updates/">&lt;style&gt;
   table {
     width: 100%;
     margin: 10px 20px;
@@ -391,139 +468,6 @@ This release includes:&lt;/p&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Variant Calling&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;lofreq_alnqual &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/lofreq_alnqual/e61c9ac190ad&quot;&gt;e61c9ac190ad&lt;/a&gt;&lt;br /&gt;lofreq_filter &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/lofreq_filter/701d134358ad&quot;&gt;701d134358ad&lt;/a&gt;&lt;br /&gt;lofreq_indelqual &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/lofreq_indelqual/c27549b9aa1f&quot;&gt;c27549b9aa1f&lt;/a&gt;&lt;br /&gt;lofreq_viterbi &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/lofreq_viterbi/dbd9f2db9ed8&quot;&gt;dbd9f2db9ed8&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Australia tool updates 2020-05-26</title><link href="https://usegalaxy-au.github.io/posts/2020/05/26/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-05-26" /><published>2020-05-26T00:00:00+00:00</published><updated>2020-05-26T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/05/26/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/05/26/tool-updates/">&lt;style&gt;
-  table {
-    width: 100%;
-    margin: 10px 20px;
-  }
-  table th {
-    display: none;
-  }
-  td {
-    padding: 3px 5px;
-  }
-  tr td:nth-child(1) {
-    vertical-align: top;
-    width: 30%;
-  }
-&lt;/style&gt;
-
-&lt;h3 id=&quot;tools-installed&quot;&gt;Tools installed&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Section&lt;/th&gt;
-      &lt;th&gt;Tool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Annotation&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;goslimmer &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/goslimmer/de3e053bd6a5&quot;&gt;de3e053bd6a5&lt;/a&gt;&lt;br /&gt;goenrichment &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/goenrichment/2c7c9646ccf0&quot;&gt;2c7c9646ccf0&lt;/a&gt;&lt;br /&gt;sortmerna &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/rnateam/sortmerna/eb35257d2e29&quot;&gt;eb35257d2e29&lt;/a&gt;&lt;br /&gt;hmmer3 &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hmmer3/54b6b4d0613a&quot;&gt;54b6b4d0613a&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Convert Formats&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;gtftobed12 &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/gtftobed12/b026dae67fba&quot;&gt;b026dae67fba&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;FASTA/FASTQ&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;ucsc_fasplit &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ucsc_fasplit/71f649c23021&quot;&gt;71f649c23021&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Fetch Sequences/Alignments&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;fraggenescan &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/fraggenescan/1f0a3e4497d4&quot;&gt;1f0a3e4497d4&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Join, Subtract and Group&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;datamash_transpose &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/datamash_transpose/22c2a1ac7ae3&quot;&gt;22c2a1ac7ae3&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Mapping&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;rna_starsolo &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/rna_starsolo/178bdbdb6d24&quot;&gt;178bdbdb6d24&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Metagenomic Analysis&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;maxbin2 &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/mbernt/maxbin2/cfd50144a871&quot;&gt;cfd50144a871&lt;/a&gt;&lt;br /&gt;cat_bins &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/cat_bins/0094893f5001&quot;&gt;0094893f5001&lt;/a&gt;&lt;br /&gt;interproscan5 &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/interproscan5/e32f2ea6a139&quot;&gt;e32f2ea6a139&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Proteomics&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;maxquant_mqpar &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/maxquant_mqpar/3fc2116ac6d9&quot;&gt;3fc2116ac6d9&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;RNA-seq&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;blockbuster &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/rnateam/blockbuster/7c7ff7a3503f&quot;&gt;7c7ff7a3503f&lt;/a&gt;&lt;br /&gt;deg_annotate &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/deg_annotate/e98d4ab5b5bc&quot;&gt;e98d4ab5b5bc&lt;/a&gt;&lt;br /&gt;heinz &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/heinz/704c401e0afb&quot;&gt;704c401e0afb&lt;/a&gt;&lt;br /&gt;blockclust &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/rnateam/blockclust/aab6cf87b40a&quot;&gt;aab6cf87b40a&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Single-cell&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;dropletutils &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/dropletutils/cdf4443d5625&quot;&gt;cdf4443d5625&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Variant Calling&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;lofreq_alnqual &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/lofreq_alnqual/435b157bed6d&quot;&gt;435b157bed6d&lt;/a&gt;&lt;br /&gt;lofreq_filter &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/lofreq_filter/9cb929f21cfa&quot;&gt;9cb929f21cfa&lt;/a&gt;&lt;br /&gt;lofreq_indelqual &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/lofreq_indelqual/f4473557ffc7&quot;&gt;f4473557ffc7&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Viral Tools&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;quasitools &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/nml/quasitools/9def47f3c1e4&quot;&gt;9def47f3c1e4&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;tools-updated&quot;&gt;Tools updated&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Section&lt;/th&gt;
-      &lt;th&gt;Tool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;BED&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;bedtools &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/bedtools/e19bebe96cd2&quot;&gt;e19bebe96cd2&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;ChemicalToolBox&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;rdock_rbcavity &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/rdock_rbcavity/744a777e9f90&quot;&gt;744a777e9f90&lt;/a&gt;&lt;br /&gt;rdock_rbdock &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/rdock_rbdock/a22969b08177&quot;&gt;a22969b08177&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;FASTQ Quality Control&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;multiqc &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/multiqc/bf675f34b056&quot;&gt;bf675f34b056&lt;/a&gt;&lt;br /&gt;fastqc &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/fastqc/f2e8552cf1d0&quot;&gt;f2e8552cf1d0&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Graph/Display Data&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;circos &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/circos/740057a5126d&quot;&gt;740057a5126d&lt;/a&gt;, &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/circos/4b519282a05b&quot;&gt;4b519282a05b&lt;/a&gt;&lt;br /&gt;plotly_ml_performance_plots &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/plotly_ml_performance_plots/85da91bbdbfb&quot;&gt;85da91bbdbfb&lt;/a&gt;&lt;br /&gt;plotly_parallel_coordinates_plot &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/plotly_parallel_coordinates_plot/7b21a9b5922f&quot;&gt;7b21a9b5922f&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;sklearn_ensemble &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/sklearn_ensemble/1a53edc4b438&quot;&gt;1a53edc4b438&lt;/a&gt;&lt;br /&gt;sklearn_searchcv &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/sklearn_searchcv/25ab6b4e376e&quot;&gt;25ab6b4e376e&lt;/a&gt;&lt;br /&gt;sklearn_svm_classifier &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/sklearn_svm_classifier/f9639b488779&quot;&gt;f9639b488779&lt;/a&gt;&lt;br /&gt;sklearn_generalized_linear &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/sklearn_generalized_linear/91c4e3331208&quot;&gt;91c4e3331208&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Mapping&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;bwa &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/bwa/3fe632431b68&quot;&gt;3fe632431b68&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;RNA-seq&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;trinity_define_clusters_by_cutting_tree &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/trinity_define_clusters_by_cutting_tree/55292a66e7c1&quot;&gt;55292a66e7c1&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;SAM/BAM&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;qualimap_bamqc &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/qualimap_bamqc/5f8e69cc4c6e&quot;&gt;5f8e69cc4c6e&lt;/a&gt;, &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/qualimap_bamqc/19ece8afbaab&quot;&gt;19ece8afbaab&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Single-cell&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;scanpy_filter &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/scanpy_filter/3c86f71498bc&quot;&gt;3c86f71498bc&lt;/a&gt;&lt;br /&gt;scanpy_normalize &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/scanpy_normalize/a407e7f8bdc1&quot;&gt;a407e7f8bdc1&lt;/a&gt;&lt;br /&gt;scanpy_remove_confounders &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/scanpy_remove_confounders/215733a383f2&quot;&gt;215733a383f2&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Statistics&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;sklearn_build_pipeline &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/sklearn_build_pipeline/840f29aad145&quot;&gt;840f29aad145&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Text Manipulation&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;text_processing &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/text_processing/9ff72e942410&quot;&gt;9ff72e942410&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry></feed>
