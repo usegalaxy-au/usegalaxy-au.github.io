@@ -1,4 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-09-21T08:08:52+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2020-09-08</title><link href="https://usegalaxy-au.github.io/posts/2020/09/08/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-09-08" /><published>2020-09-08T00:00:00+00:00</published><updated>2020-09-08T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/09/08/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/09/08/tool-updates/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2020-09-28T02:45:25+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia Outage - 30/09/2020 - 06/10/2020</title><link href="https://usegalaxy-au.github.io/posts/2020/09/27/Galaxy_Australia_outage/" rel="alternate" type="text/html" title="Galaxy Australia Outage - 30/09/2020 - 06/10/2020" /><published>2020-09-27T00:00:00+00:00</published><updated>2020-09-27T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/09/27/Galaxy_Australia_outage</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/09/27/Galaxy_Australia_outage/">&lt;p&gt;The reliable and robust service you have come to expect from the Galaxy Australia platform requires ongoing maintenance. No new jobs will be accepted from 09:00 on 30 September 2020 AEST. The scheduled outage will then occur from 17:00 on 30 September 2020 AEST. The Galaxy Australia platform will resume service at 09:00 6 October AEST.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;During this time the Galaxy Australia team will be making the following improvements to the platform:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The addition of a managed High Performance Computer (HPC) Pulsar (a Galaxy tool destination) that will allow select tools that meet the requirements of high memory usage.
+    &lt;ul&gt;
+      &lt;li&gt;In the first instance we have enabled Trinity to utilise this destination.&lt;/li&gt;
+      &lt;li&gt;Trinity on HPC will enable larger de novo genome and transcriptome assemblies.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The addition of two new tools on Galaxy Australia to enable data movement:
+    &lt;ul&gt;
+      &lt;li&gt;Import from Cloudstor&lt;/li&gt;
+      &lt;li&gt;Export to Cloudstor&lt;/li&gt;
+      &lt;li&gt;Both tools will allow seamless movement of data between your AARNet’s Cloudstor individual repository and your Galaxy History.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;If you have planned work during this outage, then please contact the support team as soon as possible, to explore options for your ongoing analyses.&lt;/p&gt;
+
+&lt;p&gt;Galaxy Australia is part of the global Galaxy community and if you require Galaxy during this time, please also consider using Galaxy Main or Galaxy Europe. You will be required to move your data to that platform and register at that service. Contact the support team if you want help with this solution.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Once the outage is complete we will send another communication letting you know that the service is available again.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Estimated downtime: 12:00PM AEST 01/10/2020 to 09:00AM AEST 06/10/2020&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Email support: help@genome.edu.au&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Yours sincerely,&lt;/p&gt;
+
+&lt;p&gt;Galaxy Australia Administrators.&lt;/p&gt;</content><author><name></name></author><category term="devops" /><summary type="html">The reliable and robust service you have come to expect from the Galaxy Australia platform requires ongoing maintenance. No new jobs will be accepted from 09:00 on 30 September 2020 AEST. The scheduled outage will then occur from 17:00 on 30 September 2020 AEST. The Galaxy Australia platform will resume service at 09:00 6 October AEST.</summary></entry><entry><title type="html">Galaxy Australia tool updates 2020-09-08</title><link href="https://usegalaxy-au.github.io/posts/2020/09/08/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-09-08" /><published>2020-09-08T00:00:00+00:00</published><updated>2020-09-08T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/09/08/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/09/08/tool-updates/">&lt;style&gt;
   table {
     width: 100%;
     margin: 10px 20px;
@@ -458,65 +504,4 @@ This release includes:&lt;/p&gt;
 
 &lt;p&gt;Alternatively, see the &lt;a href=&quot;https://docs.galaxyproject.org/en/master/releases/20.05_announce.html&quot;&gt;full release notes&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Galaxy Australia will be moving to this Galaxy version in mid July. More information will be forthcoming.&lt;/p&gt;</content><author><name></name></author><category term="devops" /><summary type="html">Galaxy 20.05 has now been released! This release includes:</summary></entry><entry><title type="html">Galaxy Australia tool updates 2020-06-23</title><link href="https://usegalaxy-au.github.io/posts/2020/06/23/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2020-06-23" /><published>2020-06-23T00:00:00+00:00</published><updated>2020-06-23T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2020/06/23/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2020/06/23/tool-updates/">&lt;style&gt;
-  table {
-    width: 100%;
-    margin: 10px 20px;
-  }
-  table th {
-    display: none;
-  }
-  td {
-    padding: 3px 5px;
-  }
-  tr td:nth-child(1) {
-    vertical-align: top;
-    width: 25%;
-  }
-&lt;/style&gt;
-
-&lt;h3 id=&quot;tools-installed&quot;&gt;Tools installed&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Section&lt;/th&gt;
-      &lt;th&gt;Tool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Convert Formats&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;thermo_raw_file_converter &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/thermo_raw_file_converter/63769c4217a7&quot;&gt;63769c4217a7&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Proteomics&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;proteomics_moff &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/proteomics_moff/a96af68dafb2&quot;&gt;a96af68dafb2&lt;/a&gt;&lt;br /&gt;rawtools &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/rawtools/51e4aa55ea04&quot;&gt;51e4aa55ea04&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;tools-updated&quot;&gt;Tools updated&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Section&lt;/th&gt;
-      &lt;th&gt;Tool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Phylogenetics&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;hyphy_absrel &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hyphy_absrel/8834daeb9892&quot;&gt;8834daeb9892&lt;/a&gt;&lt;br /&gt;hyphy_gard &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hyphy_gard/df47d4845b62&quot;&gt;df47d4845b62&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;RNA-seq&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;cuffcompare &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cuffcompare/f648e5180e40&quot;&gt;f648e5180e40&lt;/a&gt;&lt;br /&gt;cuffdiff &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cuffdiff/43b36b3d4333&quot;&gt;43b36b3d4333&lt;/a&gt;&lt;br /&gt;cufflinks &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cufflinks/d080005cffe1&quot;&gt;d080005cffe1&lt;/a&gt;&lt;br /&gt;cuffmerge &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cuffmerge/6a6717a5f421&quot;&gt;6a6717a5f421&lt;/a&gt;&lt;br /&gt;cuffnorm &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cuffnorm/6cbfede05833&quot;&gt;6cbfede05833&lt;/a&gt;&lt;br /&gt;cuffquant &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/cuffquant/679d93c99757&quot;&gt;679d93c99757&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;iVar&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;ivar_consensus &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_consensus/78bbd17d0703&quot;&gt;78bbd17d0703&lt;/a&gt;&lt;br /&gt;ivar_filtervariants &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_filtervariants/7fe36019c073&quot;&gt;7fe36019c073&lt;/a&gt;&lt;br /&gt;ivar_removereads &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_removereads/ee2beb764a7b&quot;&gt;ee2beb764a7b&lt;/a&gt;&lt;br /&gt;ivar_variants &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ivar_variants/f95f403841ad&quot;&gt;f95f403841ad&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;Galaxy Australia will be moving to this Galaxy version in mid July. More information will be forthcoming.&lt;/p&gt;</content><author><name></name></author><category term="devops" /><summary type="html">Galaxy 20.05 has now been released! This release includes:</summary></entry></feed>
