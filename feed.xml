@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2021-03-22T06:42:52+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Career Center</title><link href="https://usegalaxy-au.github.io/posts/2021/03/19/career-center/" rel="alternate" type="text/html" title="Galaxy Career Center" /><published>2021-03-19T00:00:00+00:00</published><updated>2021-03-19T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/03/19/career-center</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/03/19/career-center/">&lt;p&gt;We are pleased to announce the launch of the &lt;strong&gt;&lt;a href=&quot;https://galaxyproject.org/careers/&quot;&gt;Galaxy Career Center&lt;/a&gt;&lt;/strong&gt;. The Galaxy community is continually searching for new developers, bioinformaticians, system administrators, and researchers. The Career Center lists openings from around the world that use, deploy, enhance and administer Galaxy.&lt;/p&gt;</content><author><name></name></author><category term="galaxyproject" /><category term="galaxyaustralia" /><category term="job" /><summary type="html">We are pleased to announce the launch of the Galaxy Career Center. The Galaxy community is continually searching for new developers, bioinformaticians, system administrators, and researchers. The Career Center lists openings from around the world that use, deploy, enhance and administer Galaxy.</summary></entry><entry><title type="html">March Galactic News!</title><link href="https://usegalaxy-au.github.io/posts/2021/03/18/Galaxy-mar-news/" rel="alternate" type="text/html" title="March Galactic News!" /><published>2021-03-18T00:00:00+00:00</published><updated>2021-03-18T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/03/18/Galaxy-mar-news</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/03/18/Galaxy-mar-news/"></content><author><name></name></author><category term="galaxyproject" /><category term="galaxyaustralia" /><summary type="html"></summary></entry><entry><title type="html">2021 Google Summer of Code</title><link href="https://usegalaxy-au.github.io/posts/2021/03/17/gsoc/" rel="alternate" type="text/html" title="2021 Google Summer of Code" /><published>2021-03-17T00:00:00+00:00</published><updated>2021-03-17T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/03/17/gsoc</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/03/17/gsoc/">&lt;p&gt;Galaxy is again participating in &lt;a href=&quot;https://summerofcode.withgoogle.com/&quot;&gt;Google Summer of Code&lt;/a&gt; as part of the &lt;a href=&quot;http://gmod.org/wiki/GSoC&quot;&gt;Open Genome Informatics Consortium&lt;/a&gt;. &lt;em&gt;And we need your &lt;a href=&quot;https://galaxyproject.org/news/2021-03-gsoc/#how-to-help&quot;&gt;help&lt;/a&gt;, of course.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="galaxyproject" /><category term="galaxyaustralia" /><summary type="html">Galaxy is again participating in Google Summer of Code as part of the Open Genome Informatics Consortium. And we need your help, of course.</summary></entry><entry><title type="html">GTN Smörgåsbord Report (Spoiler alert: it was awesome.)</title><link href="https://usegalaxy-au.github.io/posts/2021/03/16/smorg-report/" rel="alternate" type="text/html" title="GTN Smörgåsbord Report (Spoiler alert: it was awesome.)" /><published>2021-03-16T00:00:00+00:00</published><updated>2021-03-16T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/03/16/smorg-report</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/03/16/smorg-report/">&lt;p&gt;The recently completed GTN Smörgåsbord course was the largest and most global Galaxy event ever, &lt;em&gt;and it was absolutely incredible.&lt;/em&gt;  Read the report to find out how.&lt;/p&gt;</content><author><name></name></author><category term="galaxyproject" /><category term="galaxyaustralia" /><category term="training" /><summary type="html">The recently completed GTN Smörgåsbord course was the largest and most global Galaxy event ever, and it was absolutely incredible. Read the report to find out how.</summary></entry><entry><title type="html">Galaxy Australia tool updates 2021-03-09</title><link href="https://usegalaxy-au.github.io/posts/2021/03/09/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2021-03-09" /><published>2021-03-09T00:00:00+00:00</published><updated>2021-03-09T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/03/09/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/03/09/tool-updates/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2021-03-22T06:44:40+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia update to 21.01</title><link href="https://usegalaxy-au.github.io/posts/2021/03/21/update-to-2101/" rel="alternate" type="text/html" title="Galaxy Australia update to 21.01" /><published>2021-03-21T00:00:00+00:00</published><updated>2021-03-21T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/03/21/update-to-2101</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/03/21/update-to-2101/"></content><author><name></name></author><category term="release" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Career Center</title><link href="https://usegalaxy-au.github.io/posts/2021/03/19/career-center/" rel="alternate" type="text/html" title="Galaxy Career Center" /><published>2021-03-19T00:00:00+00:00</published><updated>2021-03-19T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/03/19/career-center</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/03/19/career-center/">&lt;p&gt;We are pleased to announce the launch of the &lt;strong&gt;&lt;a href=&quot;https://galaxyproject.org/careers/&quot;&gt;Galaxy Career Center&lt;/a&gt;&lt;/strong&gt;. The Galaxy community is continually searching for new developers, bioinformaticians, system administrators, and researchers. The Career Center lists openings from around the world that use, deploy, enhance and administer Galaxy.&lt;/p&gt;</content><author><name></name></author><category term="galaxyproject" /><category term="galaxyaustralia" /><category term="job" /><summary type="html">We are pleased to announce the launch of the Galaxy Career Center. The Galaxy community is continually searching for new developers, bioinformaticians, system administrators, and researchers. The Career Center lists openings from around the world that use, deploy, enhance and administer Galaxy.</summary></entry><entry><title type="html">March Galactic News!</title><link href="https://usegalaxy-au.github.io/posts/2021/03/18/Galaxy-mar-news/" rel="alternate" type="text/html" title="March Galactic News!" /><published>2021-03-18T00:00:00+00:00</published><updated>2021-03-18T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/03/18/Galaxy-mar-news</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/03/18/Galaxy-mar-news/"></content><author><name></name></author><category term="galaxyproject" /><category term="galaxyaustralia" /><summary type="html"></summary></entry><entry><title type="html">2021 Google Summer of Code</title><link href="https://usegalaxy-au.github.io/posts/2021/03/17/gsoc/" rel="alternate" type="text/html" title="2021 Google Summer of Code" /><published>2021-03-17T00:00:00+00:00</published><updated>2021-03-17T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/03/17/gsoc</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/03/17/gsoc/">&lt;p&gt;Galaxy is again participating in &lt;a href=&quot;https://summerofcode.withgoogle.com/&quot;&gt;Google Summer of Code&lt;/a&gt; as part of the &lt;a href=&quot;http://gmod.org/wiki/GSoC&quot;&gt;Open Genome Informatics Consortium&lt;/a&gt;. &lt;em&gt;And we need your &lt;a href=&quot;https://galaxyproject.org/news/2021-03-gsoc/#how-to-help&quot;&gt;help&lt;/a&gt;, of course.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="galaxyproject" /><category term="galaxyaustralia" /><summary type="html">Galaxy is again participating in Google Summer of Code as part of the Open Genome Informatics Consortium. And we need your help, of course.</summary></entry><entry><title type="html">GTN Smörgåsbord Report (Spoiler alert: it was awesome.)</title><link href="https://usegalaxy-au.github.io/posts/2021/03/16/smorg-report/" rel="alternate" type="text/html" title="GTN Smörgåsbord Report (Spoiler alert: it was awesome.)" /><published>2021-03-16T00:00:00+00:00</published><updated>2021-03-16T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/03/16/smorg-report</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/03/16/smorg-report/">&lt;p&gt;The recently completed GTN Smörgåsbord course was the largest and most global Galaxy event ever, &lt;em&gt;and it was absolutely incredible.&lt;/em&gt;  Read the report to find out how.&lt;/p&gt;</content><author><name></name></author><category term="galaxyproject" /><category term="galaxyaustralia" /><category term="training" /><summary type="html">The recently completed GTN Smörgåsbord course was the largest and most global Galaxy event ever, and it was absolutely incredible. Read the report to find out how.</summary></entry><entry><title type="html">Galaxy Australia tool updates 2021-03-09</title><link href="https://usegalaxy-au.github.io/posts/2021/03/09/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2021-03-09" /><published>2021-03-09T00:00:00+00:00</published><updated>2021-03-09T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/03/09/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/03/09/tool-updates/">&lt;style&gt;
   table {
     width: 100%;
     margin: 10px 20px;
@@ -408,99 +408,6 @@
     &lt;tr&gt;
       &lt;td&gt;&lt;strong&gt;Text Manipulation&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;column_maker &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/column_maker/13b6f0007d9e&quot;&gt;13b6f0007d9e&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Australia tool updates 2021-01-12</title><link href="https://usegalaxy-au.github.io/posts/2021/01/12/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2021-01-12" /><published>2021-01-12T00:00:00+00:00</published><updated>2021-01-12T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/01/12/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/01/12/tool-updates/">&lt;style&gt;
-  table {
-    width: 100%;
-    margin: 10px 20px;
-  }
-  table th {
-    display: none;
-  }
-  td {
-    padding: 3px 5px;
-  }
-  tr td:nth-child(1) {
-    vertical-align: top;
-    width: 25%;
-  }
-&lt;/style&gt;
-
-&lt;h3 id=&quot;tools-installed&quot;&gt;Tools installed&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Section&lt;/th&gt;
-      &lt;th&gt;Tool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Assembly&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;novoplasty &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/novoplasty/7c2f5268d01c&quot;&gt;7c2f5268d01c&lt;/a&gt;&lt;br /&gt;cap3 &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/artbio/cap3/d76a0d8a9eac&quot;&gt;d76a0d8a9eac&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Join, Subtract and Group&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;datamash_reverse &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/datamash_reverse/0f1724dd59d2&quot;&gt;0f1724dd59d2&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;RNA-seq&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;mircounts &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/artbio/mircounts/b045c30fb768&quot;&gt;b045c30fb768&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;tools-updated&quot;&gt;Tools updated&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Section&lt;/th&gt;
-      &lt;th&gt;Tool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Annotation&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;maker_map_ids &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/maker_map_ids/f1912d5575df&quot;&gt;f1912d5575df&lt;/a&gt;, &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/maker_map_ids/e408aa831db3&quot;&gt;e408aa831db3&lt;/a&gt;&lt;br /&gt;tbprofiler &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/tbprofiler/037a11682176&quot;&gt;037a11682176&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Assembly&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;busco &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/busco/602fb8e63aa7&quot;&gt;602fb8e63aa7&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Graph/Display Data&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;jbrowse &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/jbrowse/8774b28235bb&quot;&gt;8774b28235bb&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Mapping&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;rna_starsolo &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/rna_starsolo/00fbfac99d39&quot;&gt;00fbfac99d39&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Phylogenetics&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;hyphy_absrel &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hyphy_absrel/d7c7ef3353fe&quot;&gt;d7c7ef3353fe&lt;/a&gt;, &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hyphy_absrel/b89cac5156ec&quot;&gt;b89cac5156ec&lt;/a&gt;&lt;br /&gt;hyphy_gard &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hyphy_gard/b0af57c1a968&quot;&gt;b0af57c1a968&lt;/a&gt;, &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/hyphy_gard/6a726db04d4b&quot;&gt;6a726db04d4b&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Proteomics&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;cardinal_preprocessing &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/cardinal_preprocessing/6b36be80febb&quot;&gt;6b36be80febb&lt;/a&gt;, &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/cardinal_preprocessing/f1897eb07081&quot;&gt;f1897eb07081&lt;/a&gt;&lt;br /&gt;cardinal_spectra_plots &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/cardinal_spectra_plots/c5aa9fca18c6&quot;&gt;c5aa9fca18c6&lt;/a&gt;, &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/cardinal_spectra_plots/1693b2126f30&quot;&gt;1693b2126f30&lt;/a&gt;&lt;br /&gt;cardinal_classification &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/cardinal_classification/b18329a8ac14&quot;&gt;b18329a8ac14&lt;/a&gt;&lt;br /&gt;cardinal_combine &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/cardinal_combine/e215f71d7983&quot;&gt;e215f71d7983&lt;/a&gt;&lt;br /&gt;cardinal_data_exporter &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/cardinal_data_exporter/4fbffddde8cd&quot;&gt;4fbffddde8cd&lt;/a&gt;&lt;br /&gt;cardinal_filtering &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/cardinal_filtering/b8c79e70516d&quot;&gt;b8c79e70516d&lt;/a&gt;&lt;br /&gt;cardinal_mz_images &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/cardinal_mz_images/59e85306eae5&quot;&gt;59e85306eae5&lt;/a&gt;&lt;br /&gt;cardinal_quality_report &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/cardinal_quality_report/5a35e3a8d013&quot;&gt;5a35e3a8d013&lt;/a&gt;&lt;br /&gt;cardinal_segmentations &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/cardinal_segmentations/cc430977c8ff&quot;&gt;cc430977c8ff&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;RNA-seq&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;rgrnastar &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/rgrnastar/e132e7d02a3e&quot;&gt;e132e7d02a3e&lt;/a&gt;&lt;br /&gt;deseq2 &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/deseq2/6a3a025714d3&quot;&gt;6a3a025714d3&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;SAM/BAM&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;samtools_view &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/samtools_view/b72793637686&quot;&gt;b72793637686&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Single-cell&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;anndata_import &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/anndata_import/cfc3f5a57dc6&quot;&gt;cfc3f5a57dc6&lt;/a&gt;&lt;br /&gt;anndata_inspect &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/anndata_inspect/038e32885fec&quot;&gt;038e32885fec&lt;/a&gt;&lt;br /&gt;anndata_manipulate &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/anndata_manipulate/b85871dd69f9&quot;&gt;b85871dd69f9&lt;/a&gt;&lt;br /&gt;dropletutils &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/dropletutils/2c1200fba922&quot;&gt;2c1200fba922&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Text Manipulation&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;column_maker &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/devteam/column_maker/9cd341095afd&quot;&gt;9cd341095afd&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry></feed>
