@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2022-02-08T03:56:21+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2022-02-01</title><link href="https://usegalaxy-au.github.io/posts/2022/02/01/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2022-02-01" /><published>2022-02-01T00:00:00+00:00</published><updated>2022-02-01T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2022/02/01/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2022/02/01/tool-updates/">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="https://usegalaxy-au.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://usegalaxy-au.github.io/" rel="alternate" type="text/html" /><updated>2022-02-08T05:12:26+00:00</updated><id>https://usegalaxy-au.github.io/feed.xml</id><title type="html">Galaxy Australia</title><subtitle>The Australian Galaxy Instance</subtitle><entry><title type="html">Galaxy Australia tool updates 2022-02-08</title><link href="https://usegalaxy-au.github.io/posts/2022/02/08/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2022-02-08" /><published>2022-02-08T00:00:00+00:00</published><updated>2022-02-08T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2022/02/08/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2022/02/08/tool-updates/">&lt;style&gt;
+  table {
+    width: 100%;
+    margin: 10px 20px;
+  }
+  table th {
+    display: none;
+  }
+  td {
+    padding: 3px 5px;
+  }
+  tr td:nth-child(1) {
+    vertical-align: top;
+    width: 25%;
+  }
+&lt;/style&gt;
+
+&lt;h3 id=&quot;tools-installed&quot;&gt;Tools installed&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Annotation&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;repeat_masker &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/repeat_masker/3f987772e283&quot;&gt;3f987772e283&lt;/a&gt;&lt;br /&gt;get_orfs_or_cdss &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/peterjc/get_orfs_or_cdss/71905a6d52a7&quot;&gt;71905a6d52a7&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Assembly&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;masurca_simple &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/dnbenso/masurca_simple/0a33488ca043&quot;&gt;0a33488ca043&lt;/a&gt;&lt;br /&gt;minia &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/minia/734cd5f1c1b2&quot;&gt;734cd5f1c1b2&lt;/a&gt;&lt;br /&gt;spades_coronaspades &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/spades_coronaspades/808b3a0a6716&quot;&gt;808b3a0a6716&lt;/a&gt;&lt;br /&gt;spades_metaplasmidspades &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/spades_metaplasmidspades/8d4b90bf9caf&quot;&gt;8d4b90bf9caf&lt;/a&gt;&lt;br /&gt;spades_metaviralspades &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/spades_metaviralspades/f1532cb33c75&quot;&gt;f1532cb33c75&lt;/a&gt;&lt;br /&gt;rnaspades &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/rnaspades/ef69617ecb42&quot;&gt;ef69617ecb42&lt;/a&gt;&lt;br /&gt;spades_plasmidspades &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/spades_plasmidspades/e41dcb0e913b&quot;&gt;e41dcb0e913b&lt;/a&gt;&lt;br /&gt;spades_rnaviralspades &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/spades_rnaviralspades/249f6a28c751&quot;&gt;249f6a28c751&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;tools-updated&quot;&gt;Tools updated&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Section&lt;/th&gt;
+      &lt;th&gt;Tool&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Assembly&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;metaspades &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/nml/metaspades/f338e9942b27&quot;&gt;f338e9942b27&lt;/a&gt;&lt;br /&gt;spades &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/nml/spades/d2d1df21dfb9&quot;&gt;d2d1df21dfb9&lt;/a&gt;&lt;br /&gt;pretext_map &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/pretext_map/dfb8a4497339&quot;&gt;dfb8a4497339&lt;/a&gt;&lt;br /&gt;shovill &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/shovill/2a9baa0c4316&quot;&gt;2a9baa0c4316&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;BB Tools&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;bbtools_bbduk &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/bbtools_bbduk/a9c9d768b751&quot;&gt;a9c9d768b751&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;FASTA/FASTQ&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;ucsc_fasplit &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ucsc_fasplit/bf04bd405d5b&quot;&gt;bf04bd405d5b&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Australia tool updates 2022-02-01</title><link href="https://usegalaxy-au.github.io/posts/2022/02/01/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2022-02-01" /><published>2022-02-01T00:00:00+00:00</published><updated>2022-02-01T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2022/02/01/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2022/02/01/tool-updates/">&lt;style&gt;
   table {
     width: 100%;
     margin: 10px 20px;
@@ -465,48 +526,4 @@
       &lt;td&gt;scater_create_qcmetric_ready_sce &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/scater_create_qcmetric_ready_sce/8f333f90d8d6&quot;&gt;8f333f90d8d6&lt;/a&gt;&lt;br /&gt;scater_filter &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/scater_filter/652923ce664f&quot;&gt;652923ce664f&lt;/a&gt;&lt;br /&gt;scater_plot_dist_scatter &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/scater_plot_dist_scatter/ef4c80837bc5&quot;&gt;ef4c80837bc5&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Australia updated to 21.09</title><link href="https://usegalaxy-au.github.io/posts/2021/11/22/galaxy-21-09/" rel="alternate" type="text/html" title="Galaxy Australia updated to 21.09" /><published>2021-11-22T00:00:00+00:00</published><updated>2021-11-22T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/11/22/galaxy-21-09</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/11/22/galaxy-21-09/"></content><author><name></name></author><category term="galaxy" /><category term="release" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Australia tool updates 2021-11-16</title><link href="https://usegalaxy-au.github.io/posts/2021/11/16/tool-updates/" rel="alternate" type="text/html" title="Galaxy Australia tool updates 2021-11-16" /><published>2021-11-16T00:00:00+00:00</published><updated>2021-11-16T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/11/16/tool-updates</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/11/16/tool-updates/">&lt;style&gt;
-  table {
-    width: 100%;
-    margin: 10px 20px;
-  }
-  table th {
-    display: none;
-  }
-  td {
-    padding: 3px 5px;
-  }
-  tr td:nth-child(1) {
-    vertical-align: top;
-    width: 25%;
-  }
-&lt;/style&gt;
-
-&lt;h3 id=&quot;tools-updated&quot;&gt;Tools updated&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Section&lt;/th&gt;
-      &lt;th&gt;Tool&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Assembly&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;canu &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/bgruening/canu/86f150c8019d&quot;&gt;86f150c8019d&lt;/a&gt;&lt;br /&gt;abyss &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/abyss/553bfe8bd0b5&quot;&gt;553bfe8bd0b5&lt;/a&gt;&lt;br /&gt;pretext_map &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/pretext_map/bbe19ef04a74&quot;&gt;bbe19ef04a74&lt;/a&gt;&lt;br /&gt;salsa &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/salsa/f77f7a7f3b83&quot;&gt;f77f7a7f3b83&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Graph/Display Data&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;pretext_snapshot &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/pretext_snapshot/44c66e8d21e6&quot;&gt;44c66e8d21e6&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Proteomics&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;maxquant &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/galaxyp/maxquant/97a7f34fcb6a&quot;&gt;97a7f34fcb6a&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Send Data&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;ena_upload &lt;a href=&quot;https://toolshed.g2.bx.psu.edu/view/iuc/ena_upload/4aab5ae907b6&quot;&gt;4aab5ae907b6&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry></feed>
+&lt;/table&gt;</content><author><name></name></author><category term="tools" /><summary type="html"></summary></entry><entry><title type="html">Galaxy Australia updated to 21.09</title><link href="https://usegalaxy-au.github.io/posts/2021/11/22/galaxy-21-09/" rel="alternate" type="text/html" title="Galaxy Australia updated to 21.09" /><published>2021-11-22T00:00:00+00:00</published><updated>2021-11-22T00:00:00+00:00</updated><id>https://usegalaxy-au.github.io/posts/2021/11/22/galaxy-21-09</id><content type="html" xml:base="https://usegalaxy-au.github.io/posts/2021/11/22/galaxy-21-09/"></content><author><name></name></author><category term="galaxy" /><category term="release" /><summary type="html"></summary></entry></feed>
